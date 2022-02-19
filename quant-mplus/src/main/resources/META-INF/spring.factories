@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.qkbus.config.MetaHandler,\
+    com.qkbus.config.MybatisConfig
